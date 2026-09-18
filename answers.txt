@@ -5,3 +5,17 @@ Instead of saving a copy every time code is changed, Git allows automatic
 tracking of different version of code for everyone to see and edit as
 necessary. Multiple people across the world can use the same files and
 share documentation and code bases without sending copies of emails.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to practically any field that
+collects data. A good example of this could be aerospace engineering.
+When a satellite or rocketship goes into space, it collects all sorts
+of data. Apollo 11, for example, collected samples of lunar rocks and
+dust to bring back to Earth. Since it was a completely foreign object
+at the time, scientists wanted to do a bunch of tests on the samples. 
+Through data science concepts, we were able to not only collect that 
+data and determine information about those rocks, but also were able
+to determine what tests to perform on the rocks and translate the 
+findings into something that NASA could actually do something with, as
+opposed to just random tidbits of information.
