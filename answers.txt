@@ -1,3 +1,13 @@
+Q1: Why might we consider using Git?
+Answer: We use Git because it makes collaboration and progress
+tracking easier. Whenever a change is made to the code, Git stores
+versions of the code in their repositories, so that everything is
+tracked for everyone to see. Furthermore, when someone needs to share
+code, they don't need to make a copy of their current and send it in.
+Instead, they can just push their changes to the repository for the 
+code to be updated in real-time to everyone with access to the
+repository.
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to practically any field that
