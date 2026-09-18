@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git? 
+
+Answer: We use Git because it makes collaborating and tracking code changes easier.
+Instead of saving a copy every time code is changed, Git allows automatic
+tracking of different version of code for everyone to see and edit as
+necessary. Multiple people across the world can use the same files and
+share documentation and code bases without sending copies of emails.
