@@ -19,3 +19,14 @@ data and determine information about those rocks, but also were able
 to determine what tests to perform on the rocks and translate the 
 findings into something that NASA could actually do something with, as
 opposed to just random tidbits of information.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves the history of both branches with a new merge commit,
+while git rebase rewrites the history of both branhces to create a 
+straight, linear timeline. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: Hopefully getting a job... or at least an interview. Depressing
+but true.
